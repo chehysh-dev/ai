@@ -1,10 +1,39 @@
-# Artificial Intelligence (AI) Lab Practicals
+# Artificial Intelligence (AI) Lab Practicals & Agile Management
 
-A complete, well-organized repository containing Artificial Intelligence practical implementations in Python. Each practical includes the problem statement, aim/question, full implementation, sample inputs, and verified outputs matching the AI lab manual.
+This repository contains:
+1. **Module 1: AI Lab Practicals (Python)** – Search algorithms, agents, probabilistic reasoning, Bayesian networks, and machine learning models.
+2. **Module 2: Jira Practicals (Agile Project Management)** – Step-by-step guides for Jira Cloud setup, team roles, issue types, workflows, Scrum sprints, and Kanban board management.
 
 ---
 
-## 🗂️ Practical-Wise Directory Structure
+## 🚀 Quick Navigation
+- 🤖 [**Module 1: AI Lab Practicals (Python 1 to 14)**](#-practical-wise-directory-structure-module-1-ai-practicals)
+- 📋 [**Module 2: Jira Practicals Step-by-Step Guides (Practicals 1 to 7)**](#-ai-module-2-jira-practicals-step-by-step-guides)
+  - Dedicated Folder: [`AI_Module_2_Jira_Practicals/`](./AI_Module_2_Jira_Practicals/) or [`Jira/`](./Jira/)
+
+---
+
+## 📋 AI Module 2: Jira Practicals Step-by-Step Guides
+
+Detailed, beginner-friendly lab manuals for BSc IT students covering Jira Cloud administration, board configuration, and agile governance:
+
+| Practical | Topic / Title | Guide Link | Focus Area |
+| :---: | :--- | :--- | :--- |
+| **Practical 1** | **Jira Setup & Project Creation** | [`Practical 01`](./AI_Module_2_Jira_Practicals/Practical_01_Jira_Setup_and_Project_Creation.md) | Jira Cloud Account, Dashboard, Company-managed Kanban (`AI learning`), Details |
+| **Practical 2** | **Team Creation & Role Assignment** | [`Practical 02`](./AI_Module_2_Jira_Practicals/Practical_02_Team_Creation_and_Role_Assignment.md) | Inviting Teammates, Project Roles (`Admin`, `Member`, `Viewer`), Licence Management |
+| **Practical 3** | **Issue Types & Configuration** | [`Practical 03`](./AI_Module_2_Jira_Practicals/Practical_03_Issue_Types_and_Configuration.md) | Epic, Story, Task, Bug, Releases/Versions (`Release 1.0`), Components (`User Interface`) |
+| **Practical 4** | **Issue Management** | [`Practical 04`](./AI_Module_2_Jira_Practicals/Practical_04_Issue_Management.md) | Epics (`Specification understanding`), Assignee, Priority (`Highest`), Due Date (`Sep 30, 2026`) |
+| **Practical 5** | **Workflow Customization** | [`Practical 05`](./AI_Module_2_Jira_Practicals/Practical_05_Workflow_Customization.md) | Visual Workflow Diagram, Transitions (`Open` -> `In Progress`), Rules/Conditions, Publishing |
+| **Practical 6** | **Scrum Board Management** | [`Practical 06`](./AI_Module_2_Jira_Practicals/Practical_06_Scrum_Board_Management.md) | Scrum Project (`Online Shopping Site`), 5 Stories with Fibonacci Points (32 pts), 2-Week Sprint, Sprint Reports |
+| **Practical 7** | **Kanban Board Management** | [`Practical 07`](./AI_Module_2_Jira_Practicals/Practical_07_Kanban_Board_Management.md) | Kanban Project (`AI Education Bot`), Task Flow, Cumulative Flow Diagram (CFD), Control Chart |
+
+Index & Audit:
+- 📖 [Jira Practicals Full Index & Syllabus](./AI_Module_2_Jira_Practicals/README.md)
+- 🔍 [Source & Assumptions Audit Trail](./AI_Module_2_Jira_Practicals/SOURCE_AND_ASSUMPTIONS.md)
+
+---
+
+## 🗂️ Practical-Wise Directory Structure (Module 1: AI Practicals)
 
 The repository is organized practical-wise into dedicated directories as well as direct scripts for convenience:
 
